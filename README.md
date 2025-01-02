@@ -2,7 +2,7 @@
 
 ImgResizer is a PyQt5-based desktop application for batch resizing images. 
 
-![Preview](https://raw.githubusercontent.com/Nadeera3784/ImgResizer/blob/main/preview.png)
+![Preview](https://raw.githubusercontent.com/Nadeera3784/ImgResizer/master/preview.png)
 
 Key features include:
 
